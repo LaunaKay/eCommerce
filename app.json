@@ -1,0 +1,8 @@
+{
+  "name": "Cute Store",
+  "description": "Ecommerce site for portfolio",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
