@@ -1,4 +1,5 @@
 node_modules
+<<<<<<< HEAD
 public
 .tmp
 .idea
@@ -6,3 +7,8 @@ client/bower_components
 dist
 /server/config/local.env.js
 npm-debug.log
+=======
+.env
+Dockerfile
+docker-compose.yml
+>>>>>>> 47b07c57fbd4577de1e11fb58283528bbfed38e3
